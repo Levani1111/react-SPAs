@@ -19,7 +19,6 @@ Add user authentication and authorization, and integrate a Firebase database wit
 * JavaScript
 * bootstrap
 * HTML
----
 * firebase
 * node.js
 * mpn
@@ -28,4 +27,5 @@ Add user authentication and authorization, and integrate a Firebase database wit
 
 https://meetingslog.netlify.app/
 
+--
 ###### Created by Levani Papashvili @2020
