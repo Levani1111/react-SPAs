@@ -28,4 +28,4 @@ Add user authentication and authorization, and integrate a Firebase database wit
 
 https://meetingslog.netlify.app/
 
-###### Craeted by Levani Papashvili @2020
+###### Created by Levani Papashvili @2020
